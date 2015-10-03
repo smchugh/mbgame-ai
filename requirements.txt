@@ -1,0 +1,24 @@
+# Flask
+# License: BSD
+# Upstream url: http://github.com/mitsuhiko/flask/
+Flask==0.10.1
+
+# Flask-Script
+# License: BSD
+# Upstream url: http://github.com/smurfix/flask-script
+Flask-Script==2.0.5
+
+# Requests
+# License: Apache 2.0
+# Upstream url: http://python-requests.org
+requests==2.7.0
+
+# Python-Dateutil
+# License: BSD
+# Upstream url: https://dateutil.readthedocs.org
+python-dateutil==2.4.2
+
+# pytz
+# License: MIT
+# Upstream url: http://pypi.python.org/pypi/pytz
+pytz==2015.6
